@@ -9,4 +9,4 @@
 - Tinder for arXiv papers ([Tinxer](https://github.com/FagerholmEmil/tinxer))
 - A tool for visually learning any topic ([Mindgraph](https://github.com/FOLLGAD/mindgraph-hackathon))
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fagerholmemil&count_private=true&show_icons=true&theme=react&rank_icon=percentile)
+
