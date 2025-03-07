@@ -1,7 +1,7 @@
 # highlights
 
 **lovable**
-- fully own [lovable-tagger](https://www.npmjs.com/package/lovable-tagger) npm-package with +200k downloads
+- fully own [lovable-tagger](https://www.npmjs.com/package/lovable-tagger) npm-package with +500k weekly downloads
 - tl;dr: it's a vite plugin that adds DOM data attributes to JSX elements for component tracing
 
 <br/>
