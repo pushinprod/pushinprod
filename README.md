@@ -13,8 +13,6 @@
  
 - led codebase migrations
 - use LLMs to migrate deprecated projects and make them compatible
-
-test123
  
 **other**
 - jumped on a trampoline
