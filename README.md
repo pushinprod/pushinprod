@@ -15,7 +15,4 @@
 - use LLMs to migrate deprecated projects and make them compatible
  
 **other**
-- jumped on a trampoline
-  - +1m views in total
-  - ranked 3rd in europe
-  - [highlights](https://www.youtube.com/watch?v=Ja3MBfaacwo)
+- jumped trampoline, got millions of views, & ranked 3rd in europe ([highlights](https://www.youtube.com/watch?v=Ja3MBfaacwo))
