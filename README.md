@@ -12,7 +12,7 @@
 <br/>
  
 - led codebase migrations
-- use LLMs to migrate deprecated projects and make them compatible
+- use LLMs to migrate deprecated projects and make them compatible with new features
  
 **other**
 - jumped trampoline, got millions of views, & ranked 3rd in europe ([highlights](https://www.youtube.com/watch?v=Ja3MBfaacwo))
