@@ -15,5 +15,5 @@
 - use LLMs to migrate deprecated projects and make them compatible with new features
  
 **other**
-- 13 yrs old: built a mini bloomberg terminal (made +$30k)
+- 13 yrs old: built a stock screener (made +$30k) ([similar to this](https://fast-stock-screener.vercel.app/))
 - 11 yrs old: jumped trampoline, got millions of views, & ranked 3rd in europe ([highlights](https://www.youtube.com/watch?v=Ja3MBfaacwo))
