@@ -15,4 +15,5 @@
 - use LLMs to migrate deprecated projects and make them compatible with new features
  
 **other**
-- jumped trampoline, got millions of views, & ranked 3rd in europe ([highlights](https://www.youtube.com/watch?v=Ja3MBfaacwo))
+- 13 yrs old: built a mini bloomberg terminal (made +$30k)
+- 11 yrs old: jumped trampoline, got millions of views, & ranked 3rd in europe ([highlights](https://www.youtube.com/watch?v=Ja3MBfaacwo))
